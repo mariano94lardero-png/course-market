@@ -1,36 +1,91 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# CourseMarket
 
-## Getting Started
+Plataforma para crear cursos (en formato texto/artículo) y venderlos, con pagos
+procesados por Stripe Checkout. Cualquier usuario registrado puede ser tanto
+instructor (crea y vende sus cursos) como alumno (compra los de otros).
 
-First, run the development server:
+Stack: Next.js 16 (App Router, Server Actions) + TypeScript + Prisma 7
+(SQLite) + NextAuth v5 (credenciales) + Stripe.
+
+## Puesta en marcha
 
 ```bash
+npm install
+npm run db:seed   # opcional: crea un instructor, un alumno y un curso de ejemplo
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abrí [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Cuentas de prueba creadas por el seed (contraseña `password123` para ambas):
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- `instructor@demo.com` — tiene un curso publicado ("Introducción a Next.js")
+- `alumno@demo.com` — sin compras, listo para probar el checkout
 
-## Learn More
+## Variables de entorno (`.env`)
 
-To learn more about Next.js, take a look at the following resources:
+Ya vienen precargadas para desarrollo local, salvo las de Stripe:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```
+DATABASE_URL="file:./dev.db"
+AUTH_SECRET="..."                    # ya generado, podés regenerarlo con: openssl rand -base64 32
+NEXT_PUBLIC_APP_URL="http://localhost:3000"
+STRIPE_SECRET_KEY=""                 # ver abajo
+STRIPE_WEBHOOK_SECRET=""             # ver abajo
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Configurar Stripe (modo test)
 
-## Deploy on Vercel
+Sin estas claves, el botón "Comprar" muestra un error explicativo en vez de
+romper la app.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. Creá una cuenta en [Stripe](https://dashboard.stripe.com/register) (o usá una existente).
+2. Copiá tu clave secreta de **modo test** desde
+   [dashboard.stripe.com/test/apikeys](https://dashboard.stripe.com/test/apikeys)
+   y pegala en `STRIPE_SECRET_KEY`.
+3. Para que las compras se marquen como pagadas automáticamente necesitás el
+   webhook. En desarrollo, con la [Stripe CLI](https://docs.stripe.com/stripe-cli):
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+   ```bash
+   stripe listen --forward-to localhost:3000/api/webhooks/stripe
+   ```
+
+   Esto imprime un `whsec_...`: pegalo en `STRIPE_WEBHOOK_SECRET` y reiniciá `npm run dev`.
+
+   > Nota: aunque no configures el webhook, el checkout igual funciona en
+   > local — al volver de Stripe con el pago aprobado, la página del curso
+   > confirma el pago contra la API de Stripe como respaldo. El webhook es el
+   > mecanismo confiable para producción.
+4. Para pagar con una tarjeta de prueba, usá `4242 4242 4242 4242`, cualquier
+   fecha futura y cualquier CVC.
+
+En producción, agregá un endpoint de webhook en el dashboard de Stripe
+apuntando a `https://tu-dominio.com/api/webhooks/stripe` y usá esa clave de
+firmado.
+
+## Modelo de datos
+
+- **User**: cualquier usuario puede crear cursos (instructor) y/o comprarlos (alumno).
+- **Course**: pertenece a un instructor, tiene precio, estado publicado/borrador y lecciones.
+- **Lesson**: contenido de texto ordenado dentro de un curso.
+- **Purchase**: vincula alumno + curso + sesión de Stripe, con estado `PENDING`/`PAID`.
+
+## Comandos útiles
+
+```bash
+npm run dev         # servidor de desarrollo
+npm run build        # build de producción
+npm run lint          # eslint
+npm run db:seed      # carga de datos de ejemplo
+npm run db:studio    # explorador visual de la base (Prisma Studio)
+npx prisma migrate dev --name <nombre>  # nueva migración tras editar prisma/schema.prisma
+```
+
+## Flujo principal
+
+1. Cualquiera se registra en `/register`.
+2. Desde `/dashboard` puede crear un curso (`/dashboard/courses/new`), cargarle
+   lecciones de texto y publicarlo (requiere al menos una lección).
+3. Los cursos publicados aparecen en el catálogo (`/`) y en `/courses/[slug]`.
+4. Un alumno compra con Stripe Checkout; tras el pago accede al contenido en
+   `/learn/[slug]` y ve sus compras en `/my-courses`.
