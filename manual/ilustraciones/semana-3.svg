@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" role="img" aria-label="Semana 3: Mente y relaciones">
+<rect width="800" height="240" rx="24" fill="#EEF6F0"/>
+<circle cx="700" cy="40" r="90" fill="#CFE6D6" opacity="0.6"/>
+<circle cx="760" cy="210" r="40" fill="#F2C94C" opacity="0.35"/>
+<circle cx="40" cy="220" r="50" fill="#CFE6D6" opacity="0.5"/>
+<g transform="translate(70 20)"><path d="M40 50 H160 a14 14 0 0 1 14 14 V120 a14 14 0 0 1 -14 14 H90 L60 160 V134 H40 a14 14 0 0 1 -14 -14 V64 a14 14 0 0 1 14 -14z" fill="#FFFFFF" stroke="#24543A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M100 118 C75 102 72 92 72 86 a14 14 0 0 1 28 -3 a14 14 0 0 1 28 3 c0 6 -3 16 -28 32z" fill="#2E7D4F"/></g>
+<text x="320" y="105" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold" font-size="40" fill="#2E7D4F">Semana 3</text>
+<text x="320" y="150" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" fill="#1F2A24">Mente y relaciones</text>
+<rect x="320" y="172" width="70" height="8" rx="4" fill="#F2C94C"/>
+</svg>

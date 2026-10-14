@@ -58,13 +58,16 @@ Estado: **textos preparados, todavía no aplicados en Shopify.** Faltan el conec
 - **Acento principal (botones, enlaces):** verde (`#2E7D4F`); hover algo más oscuro (`#24543A`).
 - **Fondo de bloques destacados:** verde muy claro (`#EEF6F0`).
 - **Tipografía:** las gratuitas que ofrezca el tema; una sans-serif legible para títulos y cuerpo de al menos 16 px en móvil.
-- **Imágenes:** ninguna de pago. Si hace falta, una portada sencilla generada con texto sobre fondo claro.
+- **Imágenes:** ilustraciones propias, sin licencias de pago. Las PNG para la tienda están en `manual/tienda-imagenes/` y los SVG originales en `manual/ilustraciones/`. La portada (`1-presentacion-portada.png`) sirve también como imagen principal del producto.
+- **Pendiente:** subirlas a Shopify (Contenido → Archivos o desde el editor del tema) cuando el conector esté autorizado o manualmente desde el panel.
 
 ---
 
 ## 3. Página de inicio (secciones en orden)
 
 ### Sección 1. Presentación (banner o texto destacado)
+
+**Imagen:** `manual/tienda-imagenes/1-presentacion-portada.png`
 
 **Título:** Gana tu día
 **Subtítulo:** 30 días para construir una vida más fuerte
@@ -73,12 +76,16 @@ Estado: **textos preparados, todavía no aplicados en Shopify.** Faltan el conec
 
 ### Sección 2. Qué incluye (lista o columnas)
 
+**Imagen:** `manual/tienda-imagenes/2-que-incluye.png`
+
 - **30 capítulos breves**: uno por día, con idea práctica, ejemplo, ejercicio y acción para hoy.
 - **Versión mínima para días difíciles**: en cada capítulo, lo más pequeño que puedes hacer si hoy no puedes con más.
 - **Página de emergencia**: «Hoy estoy de bajón: ¿qué hago ahora?», con pasos para ocho situaciones habituales.
 - **Plan de 90 días y registro semanal**: para continuar después del mes y llevar la cuenta sin obsesionarte con las rachas.
 
 ### Sección 3. Para quién está pensado
+
+**Imagen:** `manual/tienda-imagenes/3-para-quien.png`
 
 Este manual es para ti si:
 
@@ -90,6 +97,8 @@ Este manual es para ti si:
 No es un tratamiento ni un plan médico, nutricional o financiero personalizado.
 
 ### Sección 4. Muestra del manual (texto real del manuscrito, Día 5)
+
+**Imagen:** `manual/tienda-imagenes/4-muestra.png`
 
 > **Día 5. Diseña una rutina mínima para cuando estés de bajón**
 >
@@ -103,6 +112,8 @@ No es un tratamiento ni un plan médico, nutricional o financiero personalizado.
 
 ### Sección 5. Tres modos de rutina
 
+**Imagen:** `manual/tienda-imagenes/5-tres-modos.png`
+
 - **Rutina habitual.** Lo previsto para un día normal.
 - **Rutina reducida.** Menos tareas o menos esfuerzo, para cuando vas justo de tiempo o de energía.
 - **Modo cuidado.** Lo básico: comer, descansar, asearte, atender lo imprescindible y pedir apoyo si hace falta.
@@ -110,6 +121,8 @@ No es un tratamiento ni un plan médico, nutricional o financiero personalizado.
 Pasar a la rutina reducida o al modo cuidado no es fracasar: es ajustar. No mantener una racha no borra tu progreso.
 
 ### Sección 6. Preguntas frecuentes
+
+**Imagen:** `manual/tienda-imagenes/6-preguntas.png`
 
 **¿En qué formato es el manual?**
 Es un libro digital en PDF, en español. Puedes leerlo en el móvil, la tableta o el ordenador, e imprimir las páginas de ejercicios y el registro semanal si lo prefieres.
@@ -133,6 +146,8 @@ El manual trata educación financiera general: observar tus gastos, hacer un pre
 No. Es un manual educativo. Si tu malestar persiste, empeora o te dificulta la vida diaria, busca apoyo profesional.
 
 ### Sección 7. Botón final
+
+**Imagen:** `manual/tienda-imagenes/7-boton-final.png`
 
 **Texto:** Empieza a tu ritmo
 **Botón:** Ver «Gana tu día» → enlace a la ficha del producto

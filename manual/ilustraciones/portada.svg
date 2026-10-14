@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Portada de Gana tu día">
+<rect width="800" height="1000" fill="#FAFAF7"/>
+<circle cx="400" cy="640" r="150" fill="#F2C94C"/>
+<path d="M0 640 C200 560 300 640 400 600 S650 540 800 600 V1000 H0z" fill="#CFE6D6"/>
+<path d="M0 720 C220 650 360 760 520 700 S720 660 800 690 V1000 H0z" fill="#2E7D4F"/>
+<path d="M330 1000 C360 900 420 860 400 780 C390 740 420 720 440 700" fill="none" stroke="#FAFAF7" stroke-width="16" stroke-dasharray="2 28" stroke-linecap="round"/>
+<text x="400" y="190" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold" font-size="104" fill="#2E7D4F">Gana tu día</text>
+<text x="400" y="265" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="34" fill="#1F2A24">30 días para construir</text>
+<text x="400" y="310" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="34" fill="#1F2A24">una vida más fuerte</text>
+<rect x="355" y="340" width="90" height="10" rx="5" fill="#F2C94C"/>
+<text x="400" y="400" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" fill="#24543A">Hábitos, disciplina y valores para cuidar</text>
+<text x="400" y="432" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" fill="#24543A">tu cuerpo, tu mente y tu dinero</text>
+</svg>

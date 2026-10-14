@@ -4,7 +4,7 @@
 set -euo pipefail
 cd "$(dirname "$0")"
 CHROME="${1:-${CHROME:-chromium}}"
-pandoc -f markdown-yaml_metadata_block gana-tu-dia.md -s \
+pandoc -f markdown-yaml_metadata_block-implicit_figures gana-tu-dia.md -s \
   --metadata pagetitle="Gana tu día" --metadata lang=es-ES \
   -c estilo-pdf.css --embed-resources -o gana-tu-dia.html
 "$CHROME" --headless --no-sandbox --disable-gpu --no-pdf-header-footer \

@@ -1,3 +1,5 @@
+![Portada de «Gana tu día»: un sol que sale sobre colinas verdes y un camino](ilustraciones/portada.svg)
+
 # Gana tu día
 
 ## 30 días para construir una vida más fuerte
@@ -61,6 +63,8 @@ Nada que tengas que comprar. Te basta con este manual, un cuaderno o unas hojas 
 ### Los tres modos de rutina
 
 A lo largo del libro verás que se habla de tres modos. Son la herramienta más importante del manual, así que conviene entenderlos desde el principio.
+
+![Esquema de los tres modos de rutina: habitual, reducida y modo cuidado](ilustraciones/tres-modos.svg)
 
 **1. Rutina habitual.** Es lo que tienes previsto para un día normal. Por ejemplo: acostarte a tu hora, caminar veinte minutos, preparar la comida y dedicar un rato a aprender algo.
 
@@ -154,11 +158,15 @@ Al final del manual encontrarás una página titulada **«Hoy estoy de bajón: �
 
 # Semana 1. Los cimientos
 
+![Ilustración de la semana 1](ilustraciones/semana-1.svg)
+
 Esta primera semana no trata de cambiarlo todo. Trata de saber hacia dónde quieres ir, elegir pocos hábitos, preparar el terreno y tener un plan para los días malos antes de que lleguen.
 
 ---
 
 ## Día 1. Define qué significa para ti vivir bien, más allá del dinero
+
+![Ilustración del día 1](ilustraciones/dia-01.svg)
 
 ### Idea principal
 
@@ -218,6 +226,8 @@ Escribe una sola palabra que represente lo que más te importa ahora mismo. Con 
 
 ## Día 2. Elige tres hábitos que puedas sostener
 
+![Ilustración del día 2](ilustraciones/dia-02.svg)
+
 ### Idea principal
 
 Cuando alguien decide mejorar, suele hacer una lista enorme: entrenar, meditar, leer, comer mejor, ahorrar, estudiar inglés, dejar el móvil. Durante unos días funciona con fuerza de voluntad. Después la vida aprieta y todo cae a la vez.
@@ -276,6 +286,8 @@ Si dentro de seis meses solo hubiera mantenido estos tres hábitos, ¿mi vida se
 
 ## Día 3. Mira tu punto de partida sin compararte con otros
 
+![Ilustración del día 3](ilustraciones/dia-03.svg)
+
 ### Idea principal
 
 Para avanzar necesitas saber dónde estás. Pero hay dos formas de mirarse: como un inspector que busca fallos o como alguien que hace un inventario honesto para planificar.
@@ -332,6 +344,8 @@ Escribe una sola frase: «Hoy estoy aquí y está bien empezar desde aquí».
 
 ## Día 4. Prepara tu entorno para facilitar los buenos hábitos
 
+![Ilustración del día 4](ilustraciones/dia-04.svg)
+
 ### Idea principal
 
 A menudo pensamos que los hábitos dependen solo de la fuerza de voluntad. Pero tu entorno —tu casa, tu móvil, tu bolsa, tu cocina— decide muchas cosas antes de que tú decidas.
@@ -379,6 +393,8 @@ Deja preparada una sola cosa para mañana: la ropa, el agua, la libreta. Solo un
 ---
 
 ## Día 5. Diseña una rutina mínima para cuando estés de bajón
+
+![Ilustración del día 5](ilustraciones/dia-05.svg)
 
 ### Idea principal
 
@@ -448,6 +464,8 @@ Escribe solo el modo cuidado. Es el que más vas a agradecer tener preparado.
 
 ## Día 6. Aprende a cumplir compromisos pequeños contigo mismo
 
+![Ilustración del día 6](ilustraciones/dia-06.svg)
+
 ### Idea principal
 
 Cuando prometes algo a otra persona, solemos esforzarnos por cumplirlo. Con nosotros mismos somos más flexibles: «mañana empiezo», «esta semana no cuenta», «ya lo haré».
@@ -497,6 +515,8 @@ Hazte una promesa para la próxima hora, no para todo el día. Por ejemplo: «En
 ---
 
 ## Día 7. Revisa la primera semana sin juzgarte
+
+![Ilustración del día 7](ilustraciones/dia-07.svg)
 
 ### Idea principal
 
@@ -554,11 +574,15 @@ Si un amigo me contara exactamente esta semana, ¿qué le diría?
 
 # Semana 2. Cuerpo y energía
 
+![Ilustración de la semana 2](ilustraciones/semana-2.svg)
+
 Esta semana se centra en el cuerpo: descanso, mañanas, movimiento y comida. No hay planes intensos ni reglas estrictas. Hay ajustes que puedes adaptar a tu horario, a tu forma física y a tus responsabilidades. Si tienes alguna condición de salud o una lesión, consulta con un profesional sanitario antes de cambiar tu nivel de actividad.
 
 ---
 
 ## Día 8. Organiza el descanso antes de intentar madrugar
+
+![Ilustración del día 8](ilustraciones/dia-08.svg)
 
 ### Idea principal
 
@@ -619,6 +643,8 @@ Esta noche, deja el móvil fuera del alcance de la mano al acostarte. Solo eso.
 
 ## Día 9. Crea una mañana sencilla que encaje con tu vida
 
+![Ilustración del día 9](ilustraciones/dia-09.svg)
+
 ### Idea principal
 
 Una «mañana» es el primer rato después de despertarte, sea a la hora que sea. No necesitas una rutina de dos horas. Necesitas un comienzo que te ayude a entrar en el día en lugar de ser arrastrado por él.
@@ -671,6 +697,8 @@ Al despertarte, bebe un vaso de agua y di en voz baja qué es lo único importan
 ---
 
 ## Día 10. Empieza a moverte desde tu nivel actual
+
+![Ilustración del día 10](ilustraciones/dia-10.svg)
 
 ### Idea principal
 
@@ -725,6 +753,8 @@ Levántate de la silla o del sofá, estírate durante un minuto y da unos pasos 
 ---
 
 ## Día 11. Haz del ejercicio una práctica, no un castigo
+
+![Ilustración del día 11](ilustraciones/dia-11.svg)
 
 ### Idea principal
 
@@ -781,6 +811,8 @@ Cinco minutos de paseo o de estiramientos suaves. Si no es posible, descansa sin
 
 ## Día 12. Simplifica tus comidas y su preparación
 
+![Ilustración del día 12](ilustraciones/dia-12.svg)
+
 ### Idea principal
 
 Comer de forma más ordenada no exige seguir una dieta, contar calorías ni comprar productos especiales. Este manual no te va a decir qué tienes que comer; eso depende de tu salud, tus gustos, tu cultura y tu presupuesto, y si necesitas pautas concretas, un profesional sanitario es quien te puede orientar.
@@ -835,6 +867,8 @@ Come algo que te sostenga, aunque sea sencillo: un bocadillo, un plato de lo que
 ---
 
 ## Día 13. Reconoce cuándo toca esforzarse y cuándo descansar
+
+![Ilustración del día 13](ilustraciones/dia-13.svg)
 
 ### Idea principal
 
@@ -892,6 +926,8 @@ Descansa. Hoy, descansar es el hábito.
 
 ## Día 14. Ajusta tu rutina según tu energía y tus horarios
 
+![Ilustración del día 14](ilustraciones/dia-14.svg)
+
 ### Idea principal
 
 Tu energía no es igual todo el día ni todos los días. Hay momentos en los que piensas con claridad y otros en los que solo puedes hacer cosas mecánicas. Hay semanas tranquilas y semanas en las que el trabajo o los cuidados lo ocupan todo.
@@ -947,11 +983,15 @@ Elige un hábito y hazlo en su versión mínima, en cualquier momento del día q
 
 # Semana 3. Mente y relaciones
 
+![Ilustración de la semana 3](ilustraciones/semana-3.svg)
+
 Ya tienes unos cimientos y has trabajado sobre tu cuerpo. Esta semana miras hacia dentro y hacia los demás: cómo actuar sin depender de la motivación, cómo manejar el agobio, cómo hablarte, cómo volver después de fallar y cómo apoyarte en otras personas.
 
 ---
 
 ## Día 15. Actúa sin esperar a sentirte motivado
+
+![Ilustración del día 15](ilustraciones/dia-15.svg)
 
 ### Idea principal
 
@@ -1000,6 +1040,8 @@ Haz algo de menos de dos minutos relacionado con uno de tus hábitos. Lo que sea
 ---
 
 ## Día 16. Divide las tareas que te abruman
+
+![Ilustración del día 16](ilustraciones/dia-16.svg)
 
 ### Idea principal
 
@@ -1061,6 +1103,8 @@ Escribe solo el nombre de la tarea y el primer paso. Hacerlo puede esperar a ma�
 
 ## Día 17. Reduce distracciones y protege tu atención
 
+![Ilustración del día 17](ilustraciones/dia-17.svg)
+
 ### Idea principal
 
 Tu atención es limitada. Cada notificación, cada vez que miras el móvil «un momento», cada pestaña abierta se lleva un trozo. Al final del día puedes sentirte agotado sin haber hecho lo que querías.
@@ -1110,6 +1154,8 @@ Si mi atención fuera dinero, ¿en qué estoy gastando más de lo que quiero?
 ---
 
 ## Día 18. Aprende a hablarte sin insultarte
+
+![Ilustración del día 18](ilustraciones/dia-18.svg)
 
 ### Idea principal
 
@@ -1168,6 +1214,8 @@ Cuando notes una frase dura, añade al final: «...y aun así, estoy haciendo lo
 
 ## Día 19. Retoma tus hábitos después de fallar un día
 
+![Ilustración del día 19](ilustraciones/dia-19.svg)
+
 ### Idea principal
 
 Vas a fallar. No una vez, sino muchas. Es parte de cualquier cambio real. Lo que marca la diferencia no es no fallar nunca, sino **lo rápido y lo amablemente que vuelves**.
@@ -1220,6 +1268,8 @@ Escribe: «Mañana vuelvo con [versión mínima de un hábito]». Mañana, hazlo
 ---
 
 ## Día 20. Pide apoyo y cuida tus relaciones
+
+![Ilustración del día 20](ilustraciones/dia-20.svg)
 
 ### Idea principal
 
@@ -1283,6 +1333,8 @@ Manda un mensaje de una línea a alguien de confianza: «Hoy no estoy muy bien, 
 
 ## Día 21. Revisa lo que te ayuda y lo que te desgasta
 
+![Ilustración del día 21](ilustraciones/dia-21.svg)
+
 ### Idea principal
 
 Llevas tres semanas. Es un buen momento para mirar no solo tus hábitos, sino todo lo que influye en ellos: personas, lugares, actividades, horarios, contenidos que consumes.
@@ -1345,6 +1397,8 @@ Escribe una sola cosa que te ayuda y hazla hoy, aunque sea brevemente.
 
 # Semana 4. Carácter, dinero y futuro
 
+![Ilustración de la semana 4](ilustraciones/semana-4.svg)
+
 La última semana es la más amplia. Empieza por el carácter y los límites, sigue con el dinero —cómo observarlo, organizarlo y hacerlo crecer de forma honesta a través de tus habilidades— y termina preparando el futuro: las semanas difíciles y los próximos 90 días.
 
 Sobre el dinero, una aclaración: las circunstancias económicas no dependen solo de la actitud ni del esfuerzo. Influyen el lugar donde vives, el mercado laboral, la salud, las cargas familiares, la suerte y muchas cosas que no controlas. Estos capítulos ofrecen educación financiera general, no asesoramiento personalizado ni promesas de ingresos.
@@ -1352,6 +1406,8 @@ Sobre el dinero, una aclaración: las circunstancias económicas no dependen sol
 ---
 
 ## Día 22. Construye carácter: honestidad, respeto y responsabilidad
+
+![Ilustración del día 22](ilustraciones/dia-22.svg)
 
 ### Idea principal
 
@@ -1402,6 +1458,8 @@ Elige un valor y pregúntate antes de dormir: «¿Hoy he actuado de acuerdo con 
 ---
 
 ## Día 23. Pon límites sin faltar al respeto
+
+![Ilustración del día 23](ilustraciones/dia-23.svg)
 
 ### Idea principal
 
@@ -1456,6 +1514,8 @@ Antes de decir sí a algo, responde: «Déjame pensarlo y te digo». Ganar tiemp
 ---
 
 ## Día 24. Comprende en qué gastas tu dinero
+
+![Ilustración del día 24](ilustraciones/dia-24.svg)
 
 ### Idea principal
 
@@ -1520,6 +1580,8 @@ Apunta solo el gasto más grande de hoy.
 
 ## Día 25. Diseña un presupuesto ajustado a tu realidad
 
+![Ilustración del día 25](ilustraciones/dia-25.svg)
+
 ### Idea principal
 
 Un presupuesto no es una dieta para tu dinero ni una lista de prohibiciones. Es un plan que te dice, antes de que empiece el mes, para qué va a servir lo que ingresas.
@@ -1581,6 +1643,8 @@ Escribe solo dos cifras: lo que ingresas y lo que pagas en obligaciones.
 
 ## Día 26. Identifica una habilidad que quieras desarrollar
 
+![Ilustración del día 26](ilustraciones/dia-26.svg)
+
 ### Idea principal
 
 Las habilidades son una de las formas más sólidas de mejorar tus oportunidades a largo plazo, tanto en el trabajo como en la vida. Y muchas se pueden aprender sin gastar dinero: con recursos de bibliotecas públicas, cursos gratuitos de organismos públicos, práctica y ayuda de otras personas.
@@ -1639,6 +1703,8 @@ Escribe el nombre de la habilidad y un sitio donde podrías aprenderla.
 
 ## Día 27. Da un paso concreto hacia una oportunidad de ingresos
 
+![Ilustración del día 27](ilustraciones/dia-27.svg)
+
 ### Idea principal
 
 Mejorar tus ingresos puede ser un objetivo legítimo y necesario. Pero suele ocurrir de forma gradual: mejorando en tu trabajo, cambiando de empleo, formándote, ofreciendo un servicio que sabes hacer o aprovechando una oportunidad que ya existe cerca de ti.
@@ -1695,6 +1761,8 @@ Escribe una sola oportunidad que podrías explorar más adelante.
 
 ## Día 28. Evita atajos y promesas de riqueza rápida
 
+![Ilustración del día 28](ilustraciones/dia-28.svg)
+
 ### Idea principal
 
 Cuando el dinero preocupa, es más fácil caer en promesas que suenan a solución: ganar mucho en poco tiempo, «libertad financiera» en unos meses, sistemas infalibles, cursos que aseguran que vivirás de internet. También las apuestas, que se presentan como entretenimiento o como forma de «sacar algo extra».
@@ -1749,6 +1817,8 @@ Escribe tu regla personal en una frase y guárdala en el móvil.
 ---
 
 ## Día 29. Prepara un plan para las próximas semanas difíciles
+
+![Ilustración del día 29](ilustraciones/dia-29.svg)
 
 ### Idea principal
 
@@ -1816,6 +1886,8 @@ Escribe solo las señales. Reconocerlas a tiempo ya es una gran ayuda.
 
 ## Día 30. Diseña una rutina sostenible para los siguientes 90 días
 
+![Ilustración del día 30](ilustraciones/dia-30.svg)
+
 ### Idea principal
 
 Has llegado al último día del manual, a tu ritmo, que es el único que cuenta. Ahora no se trata de despedirte de lo que has hecho, sino de convertirlo en algo que puedas mantener.
@@ -1879,6 +1951,8 @@ Escribe un solo hábito que quieras mantener durante los próximos 90 días. Emp
 
 # Plan de continuidad: los próximos 90 días
 
+![Calendario con el número 90](ilustraciones/plan-90-dias.svg)
+
 Los 30 días del manual han servido para construir una base. Los próximos 90 sirven para consolidarla sin convertirla en una carga. El plan se divide en tres etapas de unas cuatro semanas cada una. Si alguna etapa te lleva más tiempo, alárgala. Si algo no encaja, cámbialo.
 
 ## Etapa 1 (semanas 1 a 4): mantener
@@ -1929,6 +2003,8 @@ Si en alguna revisión notas que tu ánimo lleva semanas bajo, que te cuesta cad
 
 # Registro semanal de hábitos
 
+![Portapapeles con una lista de hábitos](ilustraciones/registro-semanal.svg)
+
 Copia o imprime esta página cada semana. Marca con una **X** los días que cumples el hábito en versión habitual, con una **R** los días en rutina reducida y con una **C** los días en modo cuidado. Deja en blanco los días que no lo haces, sin tacharlos.
 
 **Semana del ____ al ____ de ______________**
@@ -1967,6 +2043,8 @@ Copia o imprime esta página cada semana. Marca con una **X** los días que cump
 ---
 
 # Hoy estoy de bajón: ¿qué hago ahora?
+
+![Un salvavidas](ilustraciones/emergencia.svg)
 
 Si has llegado a esta página, es probable que hoy te cueste. No pasa nada. No tienes que leerla entera: busca la situación que más se parece a la tuya.
 
@@ -2067,6 +2145,8 @@ Pedir ayuda es una forma de cuidarte, no una señal de debilidad.
 ---
 
 # Cierre
+
+![Un sol sonriente](ilustraciones/cierre.svg)
 
 Has llegado al final del manual. Quizá lo has hecho en 30 días, quizá en tres meses, quizá has saltado capítulos y has vuelto a los que más te servían. Todo eso está bien.
 

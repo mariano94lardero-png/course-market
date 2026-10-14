@@ -1,12 +1,19 @@
 @page { size: A5; margin: 16mm 14mm 18mm; }
 body { font-family: Georgia, "DejaVu Serif", serif; color: #1f2a24; font-size: 10.5pt; line-height: 1.5; }
+img { display: block; width: 100%; height: auto; margin: 4pt 0 10pt; }
+p:has(> img[src*="portada"]), p:has(> img[src^="data:image/svg+xml"]):first-child { break-after: page; }
+p:first-child > img { margin: 0; height: 175mm; width: auto; margin-inline: auto; }
 h1 { color: #2e7d4f; font-family: "DejaVu Sans", Arial, sans-serif; break-before: page; font-size: 20pt; }
-h1:first-of-type { break-before: avoid; font-size: 28pt; margin-top: 30%; }
+h1:first-of-type { break-before: avoid; font-size: 28pt; margin-top: 20%; }
 h2 { color: #2e7d4f; font-family: "DejaVu Sans", Arial, sans-serif; font-size: 14pt; }
 h2[id^="día-"] { break-before: page; }
-h3 { font-family: "DejaVu Sans", Arial, sans-serif; font-size: 11pt; color: #24543a; margin-bottom: 2pt; }
-blockquote { border-left: 3px solid #2e7d4f; background: #eef6f0; margin: 8pt 0; padding: 4pt 10pt; }
+h3 { font-family: "DejaVu Sans", Arial, sans-serif; font-size: 11pt; color: #24543a; margin-bottom: 2pt; border-left: 4px solid #2e7d4f; padding-left: 6pt; }
+h3[id^="acción-para-hoy"] + p { background: #eef6f0; border-radius: 8px; padding: 6pt 10pt; }
+h3[id^="versión-mínima"] { border-left-color: #f2c94c; }
+h3[id^="versión-mínima"] + p { background: #fdf6dc; border-radius: 8px; padding: 6pt 10pt; }
+h3[id^="pregunta-de-reflexión"] + p { font-style: italic; font-size: 11.5pt; color: #24543a; text-align: center; padding: 8pt 12pt; border-top: 1px solid #cfe6d6; border-bottom: 1px solid #cfe6d6; }
+blockquote { border-left: 3px solid #2e7d4f; background: #eef6f0; margin: 8pt 0; padding: 4pt 10pt; border-radius: 0 8px 8px 0; }
 table { border-collapse: collapse; width: 100%; font-size: 9pt; }
-th, td { border: 1px solid #9bb5a4; padding: 4pt; min-height: 14pt; height: 16pt; }
+th, td { border: 1px solid #9bb5a4; padding: 4pt; height: 16pt; }
 th { background: #eef6f0; }
 hr { display: none; }

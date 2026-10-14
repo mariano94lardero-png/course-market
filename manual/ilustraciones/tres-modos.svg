@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" role="img" aria-label="Los tres modos de rutina: habitual, reducida y modo cuidado">
+<rect width="800" height="380" rx="24" fill="#EEF6F0"/>
+<rect x="20" y="40" width="230" height="300" rx="20" fill="#FFFFFF" stroke="#CFE6D6" stroke-width="4"/>
+<text x="135" y="90" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold" font-size="26" fill="#24543A">Habitual</text>
+<rect x="60" y="120" width="150" height="16" rx="8" fill="#2E7D4F"/><rect x="60" y="150" width="150" height="16" rx="8" fill="#2E7D4F"/><rect x="60" y="180" width="150" height="16" rx="8" fill="#2E7D4F"/>
+<text x="135" y="275" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#1F2A24">Lo previsto para</text>
+<text x="135" y="300" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#1F2A24">un día normal</text>
+<path d="M253 190 h24 m-10 -10 l10 10 l-10 10" fill="none" stroke="#2E7D4F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="285" y="40" width="230" height="300" rx="20" fill="#FFFFFF" stroke="#CFE6D6" stroke-width="4"/>
+<text x="400" y="90" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold" font-size="26" fill="#24543A">Reducida</text>
+<rect x="325" y="120" width="90" height="16" rx="8" fill="#F2C94C"/><rect x="325" y="150" width="60" height="16" rx="8" fill="#F2C94C"/><rect x="325" y="180" width="40" height="16" rx="8" fill="#F2C94C"/>
+<text x="400" y="275" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#1F2A24">Menos tareas o</text>
+<text x="400" y="300" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#1F2A24">menos esfuerzo</text>
+<path d="M518 190 h24 m-10 -10 l10 10 l-10 10" fill="none" stroke="#2E7D4F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="550" y="40" width="230" height="300" rx="20" fill="#FFFFFF" stroke="#CFE6D6" stroke-width="4"/>
+<text x="665" y="90" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold" font-size="26" fill="#24543A">Cuidado</text>
+<rect x="590" y="120" width="40" height="16" rx="8" fill="#24543A"/><rect x="590" y="150" width="0" height="16" rx="8" fill="#24543A"/><rect x="590" y="180" width="0" height="16" rx="8" fill="#24543A"/>
+<text x="665" y="275" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#1F2A24">Lo básico y</text>
+<text x="665" y="300" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#1F2A24">pedir apoyo</text>
+<path d="M565 150 c0 -18 12 -24 20 -10 c8 -14 20 -8 20 10 c0 14 -20 26 -20 26 s-20 -12 -20 -26z" transform="translate(40 30)" fill="#F2C94C"/>
+</svg>

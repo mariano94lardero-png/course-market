@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" role="img" aria-label="Día 3: Estás aquí, y está bien">
+<rect width="800" height="240" rx="24" fill="#EEF6F0"/>
+<circle cx="700" cy="40" r="90" fill="#CFE6D6" opacity="0.6"/>
+<circle cx="760" cy="210" r="40" fill="#F2C94C" opacity="0.35"/>
+<circle cx="40" cy="220" r="50" fill="#CFE6D6" opacity="0.5"/>
+<g transform="translate(70 20)"><ellipse cx="100" cy="165" rx="60" ry="14" fill="#CFE6D6"/>
+<path d="M100 160 C60 110 55 90 55 75 a45 45 0 0 1 90 0 c0 15 -5 35 -45 85z" fill="#2E7D4F" stroke="#24543A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="100" cy="75" r="18" fill="#FFFFFF"/></g>
+<text x="320" y="105" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold" font-size="40" fill="#2E7D4F">Día 3</text>
+<text x="320" y="150" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" fill="#1F2A24">Estás aquí, y está bien</text>
+<rect x="320" y="172" width="70" height="8" rx="4" fill="#F2C94C"/>
+</svg>
